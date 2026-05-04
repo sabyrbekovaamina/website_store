@@ -1,0 +1,15 @@
+.register {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 50px;
+  .img {
+    img {
+      width: 600px;
+    }
+  }
+  .inp {
+    display: flex;
+    flex-direction: column;
+  }
+}
